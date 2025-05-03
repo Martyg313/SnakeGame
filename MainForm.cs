@@ -90,7 +90,8 @@ namespace SnakeGame
 
             // Creates Snake
             snake = new Snake(snakeBar.Value);
-            
+
+            //Test
             // Creates at least one Apple
             SpawnApples();
         }
