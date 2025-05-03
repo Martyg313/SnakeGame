@@ -93,7 +93,6 @@ namespace SnakeGame
         
             // Creates at least one Apple
             SpawnApples();
-            // test 2
         }
 
         /**
