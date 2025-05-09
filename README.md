@@ -1,7 +1,7 @@
 <h1>Snake Game (.NET Winforms)</h1>
 
 <h2>Description</h2>
-An implementation of "Snake" based on .NET Winforms. The snake is based on a linked list allowing for the snake to dynamically grow. All game operations pass through the control timer which constantly updates the player's snake and map. This version contains also additional features allowing the player to: pause game, modify number of apples, adjust segment multiplier, and change snake length. 
+An implementation of "Snake" based on .NET Winforms. The snake operates on a linked list allowing for the snake to dynamically grow. All game operations pass through the control timer which constantly updates the player's snake and map. This version contains also additional features allowing the player to: pause game, modify number of apples, adjust segment multiplier, and change snake length. 
 <br/>
 
 <h2>Languages</h2>
