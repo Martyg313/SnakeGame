@@ -10,7 +10,7 @@ An implementation of "Snake" based on .NET Winforms. The snake operates on a lin
 
 <h2>Program Demonstrations:</h2>
 
-Inital screen and menu:
+Initial screen and menu:
 <br />
 ![image](https://github.com/user-attachments/assets/b3e2cdf0-bf94-4761-bed2-33bd4a2a0969)
 <br />
