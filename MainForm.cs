@@ -27,7 +27,7 @@ namespace SnakeGame
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            thePanel = gamePanel;       // Statically defines this panel object for other class refrences
+            thePanel = gamePanel;       // Statically defines this panel object for other class references
         }
 
         /**
